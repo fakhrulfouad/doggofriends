@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/doggofriends/static/css/main.9538fb17.chunk.css",
+    "main.js": "/doggofriends/static/js/main.6370351d.chunk.js",
+    "main.js.map": "/doggofriends/static/js/main.6370351d.chunk.js.map",
+    "runtime-main.js": "/doggofriends/static/js/runtime-main.59fc6554.js",
+    "runtime-main.js.map": "/doggofriends/static/js/runtime-main.59fc6554.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/doggofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d78fbabe.chunk.js": "/doggofriends/static/js/2.d78fbabe.chunk.js",
+    "static/js/2.d78fbabe.chunk.js.map": "/doggofriends/static/js/2.d78fbabe.chunk.js.map",
+    "index.html": "/doggofriends/index.html",
+    "precache-manifest.5c36d1f676164252b69f20403bf07f5d.js": "/doggofriends/precache-manifest.5c36d1f676164252b69f20403bf07f5d.js",
+    "service-worker.js": "/doggofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/doggofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.9538fb17.chunk.css.map": "/doggofriends/static/css/main.9538fb17.chunk.css.map",
+    "static/js/2.d78fbabe.chunk.js.LICENSE.txt": "/doggofriends/static/js/2.d78fbabe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/doggofriends/static/media/wds052801.08857db1.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59fc6554.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d78fbabe.chunk.js",
+    "static/css/main.9538fb17.chunk.css",
+    "static/js/main.6370351d.chunk.js"
+  ]
+}
